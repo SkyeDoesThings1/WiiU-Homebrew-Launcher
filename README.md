@@ -1,3 +1,5 @@
+# I have no idea what I'm doing this is a learning project for me cause I thought it would be easy I'd be surprised if this went ANYWHERE lmao
+
 # WiiU Homebrew Launcher RPX
 
 The Homebrew Launcher is a WiiU homebrew that lists homebrew applications located on a SD card and permits launching them (similar to the Homebrew Channel of the Wii).
